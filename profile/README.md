@@ -1,4 +1,15 @@
-## Hi there 👋
+# Welcome to the catacombs
+
+![Welcome](./index.png)
+
+This is our corner to sit down and learn. No matter where you are as long as GitHub is reachable, the school repository is aswell.<br/>
+And when GitHub is not reachable ... well we have other problems then. :D
+
+Anyway feel free to discuss, read and participate!
+
+### Happy Hacking!
+#### - ByteOtter
+
 
 <!--
 
